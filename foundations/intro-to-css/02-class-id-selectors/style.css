@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+  background-color: rgb(320, 65, 50, 0.5);
+  font-family: verdana, "DejaVu Sans", "sans-seriff";
+}
+
+#div-one {
+  color: hsla(240, 93%, 50%, 0.998);
+  font-size: 36px;
+}
+
+#num-3 {
+  font-size: 24px;
+}
+
+#div-two {
+  background: #1ed60d;
+  font-size: 24px;
+  font-weight: 700;
+}
