@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.click1 {
+  background-color: black;
+  color: white;
+}
+.click2 {
+    background-color: yellow;
+    color: black;
+}
+.click1, .click2 {
+    border: 2px,solid, red;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:700
+    
+}
+.
