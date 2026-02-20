@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+div {
+  background-color: cyan;
+  color: blueviolet;
+  font-size: 20px;
+  text-align: center;
+}
+p {
+  color: darkmagenta;
+}
