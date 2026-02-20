@@ -1,11 +1,12 @@
 p {
-  background-color: rgb(320, 65, 50, 0.5);
+  background-color: rgb(15, 65, 250, 0.5);
   font-family: verdana, "DejaVu Sans", "sans-seriff";
 }
 
 #div-one {
-  color: hsla(240, 93%, 50%, 0.998);
+  color: hwb(240 4% 4% / 0.998);
   font-size: 36px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 #num-3 {
@@ -16,4 +17,5 @@ p {
   background: #1ed60d;
   font-size: 24px;
   font-weight: 700;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
